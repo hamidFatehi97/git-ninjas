@@ -265,6 +265,7 @@ If you've finished the course, please add your name and one of your social pages
 | Nariman Jafari Eshlaghi | [Linkedin](https://www.linkedin.com/in/narimanjafari/) |
 | Fatemeh Abdollahi | [Linkedin](https://www.linkedin.com/in/fatemeh-abdollahi-0a99ab21a) |
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
+| Hamid Reza Fatehi | [Linkedin](https://www.linkedin.com/in/hamid-reza-fatehi) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
